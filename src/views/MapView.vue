@@ -4,6 +4,10 @@
 
 <script>
 export default {
-  name: 'HomeView',
+    name: "MapView"
 }
 </script>
+
+<style scoped>
+
+</style>

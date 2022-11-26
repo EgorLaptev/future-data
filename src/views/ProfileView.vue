@@ -4,6 +4,10 @@
 
 <script>
 export default {
-  name: 'HomeView',
+    name: "ProfileView"
 }
 </script>
+
+<style scoped>
+
+</style>

@@ -4,6 +4,10 @@
 
 <script>
 export default {
-  name: 'HomeView',
+    name: "LoginView"
 }
 </script>
+
+<style scoped>
+
+</style>

@@ -4,6 +4,10 @@
 
 <script>
 export default {
-  name: 'HomeView',
+    name: "NewPostView"
 }
 </script>
+
+<style scoped>
+
+</style>
