@@ -33,6 +33,7 @@ export default {
     z-index: 1000;
 
     height: 56px;
+    max-width: 680px;
     width: 90%;
 
     margin: 32px auto;

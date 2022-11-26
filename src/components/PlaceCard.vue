@@ -32,6 +32,7 @@ export default {
     position: absolute;
     border-radius: 16px;
     width: 90%;
+    max-width: 500px;
     aspect-ratio: 2/3;
     overflow: hidden;
     margin: 32px auto;
