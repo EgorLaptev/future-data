@@ -29,6 +29,8 @@ export default {
 
 .bottom-navigation {
 
+    z-index: 1000;
+
     position: fixed;
     bottom: 32px;
     left: 50%;

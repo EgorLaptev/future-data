@@ -29,23 +29,19 @@ export default {
 
 .navigation {
 
-    position: fixed;
-    top: 32px;
-    left: 50%;
-    transform: translateX(-50%);
+    position: relative;
+    z-index: 1000;
 
-    height: 24px;
+    height: 56px;
     width: 90%;
 
-    padding: 16px 8px;
-    margin: 0 auto;
+    margin: 32px auto;
 
     display: flex;
     justify-content: space-between;
     align-items: center;
 
     border-radius: 100px;
-    background: white;
 
     &__item {
         display: flex;
@@ -53,8 +49,11 @@ export default {
         align-items: center;
         gap: 16px;
         color: #dedede;
+        background: white;
+        height: 40px;
+        border-radius: 25px;
         cursor: pointer;
-        padding: 8px;
+        padding: 8px 16px;
         text-decoration: none;
     }
 
